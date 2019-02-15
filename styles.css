@@ -1,0 +1,12 @@
+li {
+  padding-top: 1rem;
+}
+
+p {
+  line-height: 1;
+}
+
+
+li>p:nth-child(1) {
+  font-weight: bold;
+}
